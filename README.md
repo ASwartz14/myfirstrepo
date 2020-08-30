@@ -1,2 +1,2 @@
 # myfirstrepo
-Day2
+Week one Class activities.
