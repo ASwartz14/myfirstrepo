@@ -45,8 +45,6 @@
     color: #333;
     background: #9E1212; 
     width: 33%;
-   
-    
   }
   
   #right {
@@ -56,7 +54,6 @@
     background: #0a3a37;
     width: 34%;
     float: right;
-    
   }
   
   #full { 
@@ -73,7 +70,7 @@
     color: #333;
     background: #6ea3da;
     width: 100%;
-   
+    margin-top: 50px;
   }
   
   aside {
@@ -82,7 +79,7 @@
     height:200px;
     color:#333;
     background:#a6b747;
-    
+    float: left;
   }
   
   footer {
@@ -90,6 +87,5 @@
     margin-bottom: 20px;
     color: #333;
     background: #FFA500;
-    
   }
   
